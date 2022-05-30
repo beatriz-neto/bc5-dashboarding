@@ -22,3 +22,8 @@ If you wish to run the app with Anaconda:
 4 - Install required packages by running `pip install -r requirements.txt`
 
 5 - Run the app via: `python crypto_index.py`
+
+## Screenshots
+![initial](img/Captura de ecrã 2022-05-30 231357.png)
+
+![initial](img/Captura de ecrã 2022-05-30 231426.png)
