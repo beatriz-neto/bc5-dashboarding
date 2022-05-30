@@ -4,11 +4,6 @@
 
 This repository contains the trend page of [dash4assets.herokuapp.com](https://dash4assets.herokuapp.com).
 
-For demo purposes, the scope of the app is reduced to a single (trend) page. Some of the areas this app can serve as an example is as follows:
-* Creating a responsive Dash App
-* Using bootstrap for styling
-* Multiple pages & navigation via side bar
-* Custom period selector to apply across different visualizations
 
 If you wish to run the app with Anaconda:
 
