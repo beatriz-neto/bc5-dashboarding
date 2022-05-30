@@ -11,7 +11,7 @@ The dashboard created contains a home page and six types of financial assets (Cr
 
 
 
-If you wish to run the app with Anaconda:
+## If you wish to run the app with Anaconda:
 
 1 - Open a terminal window
 
