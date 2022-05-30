@@ -29,7 +29,7 @@ The dashboard created contains a home page and six types of financial assets (Cr
 
 5 - Run the app via: `python crypto_index.py`
 
-## Screenshots
+## Screenshots:
 
 [![Captura-de-ecr-2022-05-30-231357.png](https://i.postimg.cc/cJhX5SBj/Captura-de-ecr-2022-05-30-231357.png)](https://postimg.cc/Fffy7wqg)
 [![Captura-de-ecr-2022-05-30-231426.png](https://i.postimg.cc/qRZQ4xYx/Captura-de-ecr-2022-05-30-231426.png)](https://postimg.cc/tZWFzW9s)
