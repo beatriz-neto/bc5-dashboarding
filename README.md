@@ -1,6 +1,6 @@
 # BC5-Dashboarding
 
- $Assets - Group AC BC5
+ 4Assets - Group AC BC5
 
 This repository contains the trend page of [dash4assets.herokuapp.com](https://dash4assets.herokuapp.com).
 
