@@ -4,6 +4,12 @@
 
 This repository contains the trend page of [dash4assets.herokuapp.com](https://dash4assets.herokuapp.com).
 
+## Description of the project:
+Warner Buffer and Gil Bates are asking us to develop a dashboard for their financial analysts. However, they expect a flexible dashboard, that fetches daily updated data about any arbitrary financial asset. They expect to use this dashboard to inform the investment decisions of their internal financial team and external stakeholders.
+
+The dashboard created contains a home page and six types of financial assets (Cryptocurrency, Currencies, ETFs, Mutual Funds, Stocks and Futures). For each market, there are 4 tabs: Main - the trader will able to see, for this case, the current Price, Change, % Change, among others; Exploratory Analysis - brief investigation and summarization of the main characteristics for the chosen asset can be made; Technical Analysis – the trader can do a estimation of future price movements based on an examination of past prices activities; Models - includes prediction per day or per hour of the prices.
+
+
 
 If you wish to run the app with Anaconda:
 
