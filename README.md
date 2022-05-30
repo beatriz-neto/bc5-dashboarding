@@ -24,6 +24,8 @@ If you wish to run the app with Anaconda:
 5 - Run the app via: `python crypto_index.py`
 
 ## Screenshots
-![initial](img/Captura de ecrã 2022-05-30 231357.png)
+img/Captura de ecrã 2022-05-30 231357.png
 
-![initial](img/Captura de ecrã 2022-05-30 231426.png)
+https://github.com/beatriz-neto/bc5-dashboarding/blob/42fc431728164ea6cfb85bc04b871bcde7f3817c/img/Captura%20de%20ecr%C3%A3%202022-05-30%20231357.png
+
+
