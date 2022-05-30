@@ -1,0 +1,62 @@
+.cool_box {
+  border-radius: 5px;
+  background-color: orange;
+  margin: 2px;
+  justify-content: center;
+  width: 20%;
+  text-align: center;}
+
+.nav-pills .nav-link.active {
+    color: #ffffff;
+    background-color: orange;
+}
+
+.dot {
+    font-size: x-small;
+    height: 1.1rem;
+    width: 1.1rem;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+
+/* Boolswitch label top row */
+.tooltip-row-top {
+    float:left;
+    margin-left: 20px;
+}
+/* Boolswitch label bottom row */
+.tooltip-row-bottom {
+    float:left;
+    margin-left: 20px;
+}
+
+/* Boolswitch label text */
+.tooltip-text {
+    padding-top: 2px;
+    margin-bottom: 5px;
+    font-size:14px;
+}
+
+.center {
+/*border: 5px solid #FFFF00; */
+text-align: center;
+}
+
+.number-color {
+    color: #2f4f4f;
+
+}
+
+.Select--multi .Select-value {
+  background-color: orange;
+  border-color: #CCCCCC;
+  color: #2B303A;
+}
+
+.theme-colors {
+    primary: red;
+}
